@@ -9,6 +9,6 @@ function toggleMode() {
     img.setAttribute("src", "./assets/a-claro.png")
   } else {
     // se tiver sem light mode, manter a img normal
-    img.setAttribute("src", "./assets/a-escuro.png")
+    img.setAttribute("src", "./assets/a-claro.png")
   }
 }
